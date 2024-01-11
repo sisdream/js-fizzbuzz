@@ -9,6 +9,10 @@ body {
     font-size: 20px;
 }
 
+.container{
+    text-align: center;
+}
+
 #block-container {
     width: 80%;
     margin: 0 auto;
@@ -19,7 +23,6 @@ body {
 .square {
     margin: 15px;
     min-width: 80px;
-    width: calc(100% / 7 - 30px);
     background-color: #3F87AE;
     display: flex;
     justify-content: center;
